@@ -44,7 +44,7 @@ export default function Home() {
         </div>
       </div>
       <h1 className={inter.className}>
-        Hello, new version is now `work in progress` 🤓👨🏻‍💻
+        Hello, new version is now `work in progress` 🤓👨🏻‍💻🚀
       </h1>
       <div className={styles.grid}>
         <a
